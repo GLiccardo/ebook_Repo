@@ -1,4 +1,4 @@
-Source-code for "Android 5 - Corso di Programmazione" applications
+Source-code for e-book applications
 ==========
 
 Italian e-book to learn Android Development
