@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FragmentStaticLayout</string>
+
+    <string-array name="ArraySinistro">
+        <item>Frase1</item>
+        <item>Frase2</item>
+        <item>Frase3</item>
+    </string-array>
+    <string-array name="ArrayDestro">
+        <item>Gli italiani perdono le partite di calcio come se fossero guerre e perdono le guerre come se fossero partite di calcio.\n\n[Winston Churchill]</item>
+        <item>Non ho idea di quali armi serviranno per combattere la terza Guerra Mondiale, ma la quarta sarà combattuta coi bastoni e con le pietre.\n\n[Albert Einstein]</item>
+        <item>La guerra permette alla gente di essere veramente se stessa: i sadici diventano torturatori, gli psicopatici sono ottimi soldati da mandare in prima linea; sia i prepotenti che le vittime hanno la possibilità di giocare il proprio ruolo fino in fondo, e le puttane sono sempre occupate.\n\n[Ken Follet]</item>
+    </string-array>
+
+    <string name="title_activity_fragment_sinistro">FragmentSinistro</string>
+    <string name="title_activity_fragment_destro">FragmentDestro</string>
+
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- RelativeLayout che contiene i componenti della GUI dell'applicazione -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayoutIniziale"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CCCCCC" >
+
+    <!-- TextView che mostra "Benvenuti su 'Android 5 Corso di Programmazione" -->
+    <TextView
+        android:id="@+id/welcomeTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center_horizontal"
+        android:paddingTop="10dp"
+        android:text="@string/welcome"
+        android:textColor="#00BB00"
+        android:textSize="30sp"
+        android:textStyle="italic" />
+
+    <!-- ImageView relativa all'immagine del robottino Android -->
+    <ImageView
+        android:id="@+id/androidImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/welcomeTextView"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="40dp"
+        android:src="@drawable/android" />
+
+    <!-- ImageView relativa all'immagine del logo "GiuseppeLiccardo.it" -->
+    <ImageView
+        android:id="@+id/glImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/androidImageView"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="100dp"
+        android:src="@drawable/logo_gl" />
+
+</RelativeLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimaActivity</string>
+    <string name="title_activity_seconda">SecondaActivity</string>
+    <string name="title_activity_terza">TerzaActivity</string>
+    <string name="inviaPrimaActivity">Invia Prima Activity</string>
+    <string name="inviaSecondaActivity">Invia Seconda Activity</string>
+    <string name="inviaTerzaActivity">Invia Terza Activity</string>
+    <string name="terminaPrimaActivity">Termina Prima Activity</string>
+    <string name="terminaSecondaActivity">Termina Seconda Activity</string>
+    <string name="terminaTerzaActivity">Termina Terza Activity</string>
+</resources>

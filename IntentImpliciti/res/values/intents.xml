@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="intents">
+        <item>Apri Browser</item>
+        <item>Effettua Chiamata</item>
+        <item>Mostra Mappa</item>
+        <item>Scatta Foto</item>
+        <item>Mostra Rubrica</item>
+    </string-array>
+</resources> 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimaActivity</string>
+    <string name="textViewMessage">Qui comparirà il messaggio</string>
+    <string name="buttonMessage">Avvia Seconda Activity</string>
+    <string name="title_activity_seconda">SecondaActivity</string>
+    <string name="messageTextViewSecondaActivity">Digita messaggio: </string>
+    <string name="inviaSecondaActivity">Invia messaggio</string>
+</resources>
