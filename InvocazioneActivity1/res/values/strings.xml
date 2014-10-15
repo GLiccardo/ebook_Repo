@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimaActivity</string>
+    <string name="title_activity_seconda">SecondaActivity</string>
+    <string name="messaggioButtonPrimaActivity">Avvia Seconda Activity</string>
+    <string name="messaggioButtonSecondaActivity">Termina Activity</string>
+</resources>
